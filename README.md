@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Nettogrof StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=163961&theme=dark&layout=compact)](https://stackoverflow.com/users/163961/nettogrof)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nettogrof&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **Nettogrof/Nettogrof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
